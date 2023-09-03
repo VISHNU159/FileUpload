@@ -1,0 +1,44 @@
+
+.empid1431savedfiles {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Style for the table */
+  .empid1431filetable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  /* Style for table header */
+  .empid1431thead th {
+    background-color: #f2f2f2;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  /* Style for table header and cell */
+  .empid1431thead th,
+  .empid1431tbody td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  /* Style for table rows */
+  .empid1431tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  /* Style for table links */
+  .empid1431tbody a {
+    text-decoration: none;
+    color: #0074d9;
+  }
+  
+  /* Style for the space between date and time */
+  .empid1431tbody td {
+    white-space: nowrap; /* Prevent line break between date and time */
+    padding-right: 10px; /* Add some space between date and time */
+  }
+  
